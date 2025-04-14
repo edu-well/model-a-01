@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Espace Étudiant - Recherche</title>
+    <link rel="stylesheet" href="data/style/style.css">
+    <link rel="shortcut icon" href="data/img/my-avatar.png" type="image/x-icon">
+     <!-- Load Inter from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  
+    <style>
+     
+    
+      
+        
+      
+       
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Espace Étudiant</h1>
+            <h2>Ressources et Résumés</h2>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Rechercher par nom ou question...">
+        </div>
+        
+        <p class="explainer">Trouvez rapidement Ce que vous recherchez...</p>
+        
+        <div id="resultsContainer">
+            <div class="results-scroller" id="resultsScroller">
+                <!-- Results will appear here as cards -->
+            </div>
+        </div>
+        
+        <div class="loader" id="loader">
+            <div class="loader-dots">
+                <div class="loader-dot"></div>
+                <div class="loader-dot"></div>
+                <div class="loader-dot"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Enhanced PDF Preview Modal -->
+    <div class="modal" id="pdfModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="modal-title" id="modalTitle">Document PDF</span>
+                <button class="close-btn" id="closeModal">&times;</button>
+            </div>
+            <div class="pdf-preview-container">
+                <iframe class="pdf-preview" id="pdfPreview" frameborder="0"></iframe>
+            </div>
+            <div class="modal-footer">
+                <button class="modal-btn modal-btn-secondary" id="downloadBtn">
+                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 6px;">
+                        <path d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z"/>
+                        <path d="M7.646 11.854a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V1.5a.5.5 0 0 0-1 0v8.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3z"/>
+                    </svg>
+                    Télécharger
+                </button>
+                <button class="modal-btn modal-btn-primary" id="printBtn">
+                    <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16" style="margin-right: 6px;">
+                        <path d="M5 1a2 2 0 0 0-2 2v1h10V3a2 2 0 0 0-2-2H5zm6 8H5a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-3a1 1 0 0 0-1-1z"/>
+                        <path d="M0 7a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-1v-2a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v2H2a2 2 0 0 1-2-2V7zm2.5 1a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
+                    </svg>
+                    Imprimer
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="data/js/database/dataphysique/datadsdc-1.js"></script>
+    <script src="data/js/database/fonction.js"></script>
+   
+</body>
+</html>
