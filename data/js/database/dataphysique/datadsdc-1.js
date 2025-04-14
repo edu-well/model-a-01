@@ -960,4 +960,136 @@ const pdfDatabase = [
 
 
 
+
+
+
+
+
+     
+    
+    { 
+        name: "Physique Devoir de synthese 3- 2018", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1JMHz9_mR0ABUTgyHHvZ7AJlq0g796czz/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Physique Devoir de synthese 3- 2018", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1Jp5NquXTYppaRGEmCLeeX3bny7q33P6k/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+ 
+
+
+
+    
+    { 
+        name: "Physique Devoir de synthese 3- 2019", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1JSL155ADW9rayaPJ-dw-yXrlHBh1qPHm/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Physique Devoir de synthese 3- 2019", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1KCPta8rF7hQzFoNNiI6P5ffo1a3RjSiK/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
+    
+
+
+
+    { 
+        name: "Physique Devoir de synthese 3- 2021", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1Jb6KxQqB_5-m69mb75fBTMKVL5qndUw2/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Physique Devoir de synthese 3- 2021", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1KHbuVHF9GwkhaN-f730MA-FujjEcIspU/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
+
+
+    
+    
+    { 
+        name: "Physique Devoir de synthese 3- 2022", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1JfD6Zwl_P_2A7FMf5xHcPF5bLmGDKb3D/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Physique Devoir de synthese 3- 2022", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1KIHD2Z-US75Mmafh0LhtWV0Tt8lGnHov/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    
+    
+
+
+
+    { 
+        name: "Physique Devoir de synthese 3- 2023", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1Jo-aFO0DxXu1at3RIQjrRzbLdoZTIHJ7/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Physique Devoir de synthese 3- 2023", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1KKElH4Hwu-cpGIZhFK5S9B_gZxA5e-I6/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ];
