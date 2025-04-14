@@ -335,7 +335,7 @@ const pdfDatabase = [
     },
 
     { 
-        name: "Devoir de synthese 1 201", 
+        name: "Devoir de synthese 1 2021", 
         author: "Direction régionale de Ben Arous",
         description: "Corraction Sciences physiques  ",
         url: "https://drive.google.com/file/d/1mlAphNpgpbweaBDVFmyavoPB-intlRsr/preview", 
@@ -405,7 +405,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2013", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1SBQhJ8_xQIA64RgAon5Fdm1VeBfGrRKJ//preview", 
+        url: "https://drive.google.com/file/d/1SBQhJ8_xQIA64RgAon5Fdm1VeBfGrRKJ/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -428,7 +428,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2014", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1JM-1BEf-Yvy5VBg_bEgwyPtfwRrA2Vm4//preview", 
+        url: "https://drive.google.com/file/d/1JM-1BEf-Yvy5VBg_bEgwyPtfwRrA2Vm4/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -453,7 +453,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2015", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1HRzHyOw6RNZ8AkaGZvgCtsIu8MVuWFue//preview", 
+        url: "https://drive.google.com/file/d/1HRzHyOw6RNZ8AkaGZvgCtsIu8MVuWFue/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -477,7 +477,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2016", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1UY4niX9RO-0WrTYBCv6ofRItRZRXoy3E//preview", 
+        url: "https://drive.google.com/file/d/1UY4niX9RO-0WrTYBCv6ofRItRZRXoy3E/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -504,7 +504,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2020", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1P--nuQq1yDDWSq889FUai_LazJwAiKWi//preview", 
+        url: "https://drive.google.com/file/d/1P--nuQq1yDDWSq889FUai_LazJwAiKWi/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -525,7 +525,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2021", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1JlFhm5EAS80b8hhkQgiAH0OIENnxZbN6//preview", 
+        url: "https://drive.google.com/file/d/1JlFhm5EAS80b8hhkQgiAH0OIENnxZbN6/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -549,7 +549,7 @@ const pdfDatabase = [
         name: "Devoir de controle 2 2022", 
         author: "Direction régionale de Ben Arous",
         description: "Enonce Sciences physiques  ",
-        url: "https://drive.google.com/file/d/1Cbe-LS6-XE35FkHLsbKKp-upoUkaBziX//preview", 
+        url: "https://drive.google.com/file/d/1Cbe-LS6-XE35FkHLsbKKp-upoUkaBziX/preview", 
         
         keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
     },
@@ -564,7 +564,134 @@ const pdfDatabase = [
     },
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
+
+    
+    { 
+        name: "Devoir de synthese 2 2014", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1H3TfCE93Hx7WkMEvWd-yyXTQj1Cbk5Go/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Devoir de synthese 2 2014", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HX41PzCx5KD6-0Gb9CrsBWdbqAeOT8HY/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
+  
+    
+    
+    { 
+        name: "Devoir de synthese 2 2019", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HBZ6tHZ3qq3v0N2GF-r4G8q5kgquvhXh/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Devoir de synthese 2 2019", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HeZPKGx8yPDOa3STnge-J6_has-1kifI/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
+    
+    
+    { 
+        name: "Devoir de synthese 2 2020", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HCYjBcLklzeaQD_ntRSR2799sVLm5uE8/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Devoir de synthese 2 2020", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1Hh_YaXi_Ma-f2srSWYMdfy4ubgrdxT0U/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
+    
+    
+    { 
+        name: "Devoir de synthese 2 2022", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HKcmE8SxdPsq1ZdVQwBHEydW6o9IT5mu/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Devoir de synthese 2 2022", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HjA_kt0kzUg_BBObucqUrn0_9jVfHdzw/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
+    
+    
+    { 
+        name: "Devoir de synthese 2 2023", 
+        author: "Direction régionale de Ben Arous",
+        description: "Enonce Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HPYJtL4ixEzkNUaU-GAC97-IB7-VyYIs/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+    { 
+        name: "Devoir de synthese 2 2024", 
+        author: "Direction régionale de Ben Arous",
+        description: "Corraction Sciences physiques  ",
+        url: "https://drive.google.com/file/d/1HksYx5zV-UO5cRhL56rFl8p7qpSaxR9b/preview", 
+        
+        keywords: ["controle 1", "controle1","c1","physique", "bac" ,"rc","2012"] 
+    },
+
+
 
 
 
